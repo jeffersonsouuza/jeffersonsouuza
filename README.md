@@ -1,6 +1,6 @@
-### Olá! Meu nome é Jefferson Souza
+### Olá! Meu nome é Jefferson Souza!
 
-- 🔭 Estou trabalhando com front-end
+- 🔭 Estou trabalhando como desenvolvedor front-end
 - 🌱 Estudando Php
 - 📫 Entre em contato pelo email: jeffersonsouza03@hotmail.com
 
