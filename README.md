@@ -6,9 +6,9 @@ I'm Jefferson Souza, Full Stack developer from Brazil (Espirito Santo).
 
 <div align="center">
   <a href="https://github.com/jeffersonsouuza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersonsouuza&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  &emsp;&emsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonsouuza&layout=compact&langs_count=7&theme=swift"/>
+  <img height="190" width="400" src="https://github-readme-stats.vercel.app/api?username=jeffersonsouuza&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  
+  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonsouuza&layout=compact&langs_count=7&theme=swift"/>
   </a>
 </div>
 
