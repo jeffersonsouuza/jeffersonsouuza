@@ -6,9 +6,9 @@ I'm Jefferson Souza, Full Stack developer from Brazil (Espirito Santo).
 
 <div align="center">
   <a href="https://github.com/jeffersonsouuza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersonsouuza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersonsouuza&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
   &emsp;&emsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonsouuza&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonsouuza&layout=compact&langs_count=7&theme=swift"/>
   </a>
 </div>
 
@@ -19,7 +19,10 @@ I'm Jefferson Souza, Full Stack developer from Brazil (Espirito Santo).
   <img align="center" alt="Jefferson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jefferson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jefferson-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Jefferson-Bootstrap" height="30" width="40" src="https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000">
+  <img align="center" alt="Jefferson-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
   <img align="center" alt="Jefferson-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+  <img align="center" alt="Jefferson-GIT" height="30" width="35" src="https://img.icons8.com/?size=100&id=sOWbK4N3cxGh&format=png&color=000000">
 </div><br>
   
 ### Contact me:
